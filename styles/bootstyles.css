@@ -1,0 +1,37 @@
+.header {
+    top: 5px;
+    right: 5px;
+    left: 5px;
+    height: 100px;
+    z-index: 2;
+    border-bottom: solid 2px grey;
+}
+
+.subheader {
+    float: right;
+}
+
+.mainbody {
+    top: 114px;
+    bottom: 64px;
+    left: 114px;
+    right: 114px;
+}
+
+.captions {
+    height: 50px;
+    left: 114px;
+    right: 114px;
+    text-align: center;
+    background-color: gray;
+    font-size: 45px;
+}
+
+.footer {
+    bottom: 5px;
+    right: 5px;
+    left: 5px;
+    height: 50px;
+    font-size: 15px;
+    text-align: center;
+}

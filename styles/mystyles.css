@@ -1,0 +1,17 @@
+.under {
+    font-style: italic;
+    font-size: 18px
+}
+
+.list{
+    font-size: 15px
+}
+
+.heading{
+    text-align: center;
+    color: gray
+}
+
+.resume {
+    font-weight: bold
+}
